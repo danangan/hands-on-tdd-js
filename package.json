@@ -1,0 +1,24 @@
+{
+  "name": "hands-on-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danangan/hands-on-tdd-js.git"
+  },
+  "author": "danang arbansa nur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danangan/hands-on-tdd-js/issues"
+  },
+  "homepage": "https://github.com/danangan/hands-on-tdd-js#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.10.2",
+    "babel-jest": "^26.0.1",
+    "jest": "^26.0.1"
+  }
+}
